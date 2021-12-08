@@ -1,0 +1,34 @@
+
+  img{
+    height: 200px;
+
+  }
+  img:hover{
+    border-radius: 100%;
+    height: 250px;
+  }
+  body{
+    background-color: #EAF6F6;
+  }
+  h1{
+    color: #66BFBF;
+  }
+  h2{
+    color: #66BFBF;
+  }
+  a{
+    color: #66BFBF;
+  }
+  a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 1px;
+    height: 0;
+    width: 30%;
+  }
